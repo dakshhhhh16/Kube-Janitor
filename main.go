@@ -43,4 +43,3 @@ func main() {
 	factory.Start(ch)
 	c.Run(ch)
 }
-

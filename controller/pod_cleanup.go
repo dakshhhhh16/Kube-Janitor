@@ -212,4 +212,3 @@ func isSeenBefore(uid types.UID) bool {
 func markAsSeen(uid types.UID) {
 	seenPods.Store(uid, struct{}{})
 }
-// controller
