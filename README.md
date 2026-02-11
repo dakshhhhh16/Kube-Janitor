@@ -32,7 +32,7 @@ Every cluster operator has seen it: Failed pods from botched deployments. Evicte
 
 > *"Our staging cluster had 2,000+ failed pods from test runs. We spent hours cleaning them up manually."*
 
----
+---  
 
 ## ✅ The Solution
 
