@@ -8,7 +8,7 @@ require (
 	k8s.io/api v0.29.0
 	k8s.io/apimachinery v0.29.0
 	k8s.io/client-go v0.29.0
-)
+)  
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
