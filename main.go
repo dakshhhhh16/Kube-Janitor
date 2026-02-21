@@ -1,5 +1,4 @@
 // Kube Janitor - Kubernetes Pod Cleanup Controller
-//
 // Author: Daksh Pathak
 // GitHub: https://github.com/dakshhhhh16
 // Date: January 2026

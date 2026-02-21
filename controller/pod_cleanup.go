@@ -127,6 +127,8 @@ func (c *Controller) handleUpdate(oldObj interface{}, newObj interface{}) {
 	if status, err := json.Marshal(pod.Status); err == nil {
 		fmt.Printf("[DEBUG] Pod status update: %s\n", string(status))
 	}
+
+	c.evaluatePod(pod)
 }
 
 func (c *Controller) evaluatePod(pod *corev1.Pod) {
