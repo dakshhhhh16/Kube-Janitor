@@ -17,7 +17,7 @@
 </p>
 
 ---
-
+ 
 ## 🚨 The Problem
 
 **Kubernetes clusters accumulate garbage over time—and nobody wants to clean it up manually.**
